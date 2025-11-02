@@ -1,0 +1,8 @@
+Cegados por la IA © 2029 – Todos los derechos reservados.
+
+Este repositorio contiene componentes bajo licencias mixtas:
+- Núcleo del sistema: Licencia Propietaria Cegados por la IA
+- Módulo de visión: MIT
+- Modelo IA entrenado: CC BY-NC
+- Datos: CC BY-NC-SA
+- Documentación: CC BY
