@@ -2,7 +2,7 @@
 
 # Cegados por la IA
 
-[![Model Card](https://img.shields.io/badge/Model_Card-Ver_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)]([./Model_Card_CegadosPorLaIA.pdf](https://github.com/EthicsAI-UCM/CegadosPorLaIA/blob/main/modelCard-anexos/Model%20Card%20-%20Cegados%20por%20la%20IA.pdf))
+[![Model Card](https://img.shields.io/badge/Model_Card-Ver_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/EthicsAI-UCM/CegadosPorLaIA/blob/main/modelCard-anexos/Model%20Card%20-%20Cegados%20por%20la%20IA.pdf)
 
 > "Ver el mundo a través de la voz."
 
